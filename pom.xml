@@ -18,6 +18,9 @@
         <repository>
             <id>github</id>
             <url>https://maven.pkg.github.com/atifrahmantft/Demo_1</url>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
         </repository>
     </distributionManagement>
 
